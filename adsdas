@@ -1,10 +1,16 @@
-<mxfile host="app.diagrams.net" modified="2022-11-22T20:03:39.551Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" version="20.6.0" etag="b4EBCb_6o3zHJdNnXsND" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-22T20:07:21.146Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" version="20.6.0" etag="cQtKu_x1Ny7xnsEY3koF" type="github">
   <diagram id="i6wWqYDKJe_NI-bNRddo" name="Strona-1">
-    <mxGraphModel dx="115" dy="64" grid="1" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="166" dy="93" grid="1" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="rQw4lY97FySf2gVhnOjk-5" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FF8000;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="79" y="120" width="75" height="42" as="geometry" />
+        </mxCell>
         <mxCell id="rQw4lY97FySf2gVhnOjk-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#000099;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="94" y="120" width="50" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="rQw4lY97FySf2gVhnOjk-2" value="TFT" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=none;strokeColor=none;fontColor=#FFFBFA;" vertex="1" parent="1">
           <mxGeometry x="94" y="120" width="50" height="42" as="geometry" />
         </mxCell>
       </root>
